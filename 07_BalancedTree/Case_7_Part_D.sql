@@ -4,7 +4,11 @@ SELECT * FROM product_prices
 
 SELECT * FROM product_details
 SELECT * FROM sales 
+<<<<<<< HEAD
 -------------------------------------- [E] Bonus Challenge --------------------------------
+=======
+-------------------------------------- [D] Bonus Challenge --------------------------------
+>>>>>>> 47c953c1b2b398a9e3a3981f78c98701bb31e04c
 
 
 
@@ -49,4 +53,8 @@ FROM segment_id_cte SI
 JOIN product_name_cte PN ON SI.id = pn.id
 JOIN product_prices pp ON pn.id = pp.id
 RIGHT JOIN product_hierarchy ph ON pp.id = ph.id
+<<<<<<< HEAD
 WHERE product_id IS NOT NULL
+=======
+WHERE product_id IS NOT NULL
+>>>>>>> 47c953c1b2b398a9e3a3981f78c98701bb31e04c
