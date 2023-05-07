@@ -4,7 +4,7 @@ SELECT * FROM product_prices
 
 SELECT * FROM product_details
 SELECT * FROM sales 
--------------------------------------- [E] Bonus Challenge --------------------------------
+-------------------------------------- [D] Bonus Challenge --------------------------------
 
 
 
