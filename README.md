@@ -14,7 +14,7 @@ Cover many core SQL skills and techniques required for data analysis from beginn
 - Exploratory data analysis
 - Complex table joins
 - Entity relationship diagrams
-- Many the window functions
+- Many window functions
 - Case When Statements
 - Date and Timestamp manipulation including timezones
 - Table schemas and data types,etc
